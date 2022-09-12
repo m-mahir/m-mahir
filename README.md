@@ -16,7 +16,8 @@ Looking forward to work in an environment offering challenging career opportunit
 * 📱 Flutter
 * 💻 Vue, JS, TS, HTML, CSS
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/https://www.linkedin.com/in/m-mahir/](https://www.linkedin.com/in/m-mahir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.m-mahir.ml/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/m-mahir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.m-mahir.ml/)  
+ 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-mahir)](https://github.com/anuraghazra/github-readme-stats)
