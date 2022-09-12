@@ -10,3 +10,5 @@ Looking forward to work in an environment offering challenging career opportunit
 
 ### Skills
 C C# C++ Javascript Typescript HTML5 React NextJs Vue Nuxtjs Angular JQuery CSS3 Sass Bootstrap Redux NodeJS Express Fast API GraphQL NestJS MongoDB MySQL PostgreSQL Firebase Heroku Flask .NET
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-mahir)](https://github.com/anuraghazra/github-readme-stats)
