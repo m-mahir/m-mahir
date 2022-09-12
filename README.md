@@ -16,8 +16,7 @@ Looking forward to work in an environment offering challenging career opportunit
 * 📱 Flutter
 * 💻 Vue, JS, TS, HTML, CSS
 
-<img src="https://github.com/m-mahir/m-mahir/blob/7b0c1eafc9d4af7fb618485930216008ae0323d1/react.png" height="50" />
-<img src="https://github.com/m-mahir/m-mahir/blob/7b0c1eafc9d4af7fb618485930216008ae0323d1/react%20native.png" height="50" />
+<img src="https://github.com/m-mahir/m-mahir/blob/7b0c1eafc9d4af7fb618485930216008ae0323d1/react.png" height="50" /> <img src="https://github.com/m-mahir/m-mahir/blob/7b0c1eafc9d4af7fb618485930216008ae0323d1/react%20native.png" height="50" />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/m-mahir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.m-mahir.ml/)  
  
