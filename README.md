@@ -14,10 +14,7 @@ Looking forward to work in an environment offering challenging career opportunit
 <img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/react.png" height="50" /> <img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/vue.png" height="50" /> <img src="https://github.com/m-mahir/m-mahir/blob/90059cefa9e558779ea438eb19da9949f5e87378/flutter.jpg" height="50" />  <img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/javascript.png" height="50" /> <img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/Typescript.png" height="50" /> <img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/Bootstrap.png" height="50" /> <img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/CSS3.png" height="50" /> <img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/html.png" height="50" /> <img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/jest.jpg" height="50" /> <img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/jquery.png" height="50" /> <img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/nodejs.png" height="50" />
 
 ## Links
-[<img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/nodejs.png" height="50" />](https://www.linkedin.com/in/m-mahir/)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/m-mahir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.m-mahir.ml/)  
- 
-
+[<img src="https://github.com/m-mahir/m-mahir/blob/2249bcd09736c8e24b2923a4ea68127b011dcd17/linkedin.png" height="40" alt="linkedin" />](https://www.linkedin.com/in/m-mahir/)
+[<img src="https://github.com/m-mahir/m-mahir/blob/2249bcd09736c8e24b2923a4ea68127b011dcd17/site.png" height="40" alt="website" />](https://www.m-mahir.ml/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-mahir)](https://github.com/anuraghazra/github-readme-stats)
