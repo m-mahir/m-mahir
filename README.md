@@ -75,4 +75,5 @@ Looking forward to work in an environment offering challenging career opportunit
 [<img src="https://github.com/m-mahir/m-mahir/blob/2249bcd09736c8e24b2923a4ea68127b011dcd17/linkedin.png" height="45" alt="linkedin" />](https://www.linkedin.com/in/m-mahir/) &nbsp;
 [<img src="https://github.com/m-mahir/m-mahir/blob/2249bcd09736c8e24b2923a4ea68127b011dcd17/site.png" height="45" alt="website" />](https://www.m-mahir.ml/)
 
+## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-mahir)](https://github.com/anuraghazra/github-readme-stats)
