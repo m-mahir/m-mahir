@@ -54,22 +54,6 @@ Looking forward to work in an environment offering challenging career opportunit
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45"/> </a> &nbsp; 
     <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="45" height="45"/> </a> &nbsp;
 </p>
-<!--
-- &nbsp;<img src='https://github.com/m-mahir/m-mahir/blob/e39e3aa30d6af65fe3c491b1f32a7116e5090af7/location.png' height='12' > &nbsp; Cairo, Egypt.
-- <img src='https://github.com/m-mahir/m-mahir/blob/e39e3aa30d6af65fe3c491b1f32a7116e5090af7/email.png' height='12' > &nbsp; mohammed.mahir92@gmail.com.
-## Skills & Experience
-[<img src="https://github.com/m-mahir/m-mahir/blob/8d47637862696a9c1f7458568c8f63656d9e2647/react.png" height="50" />](https://reactjs.org/) &nbsp;
-[<img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/vue.png" height="50" />](https://vuejs.org/) &nbsp; 
-[<img src="https://github.com/m-mahir/m-mahir/blob/90059cefa9e558779ea438eb19da9949f5e87378/flutter.jpg" height="50" />](https://flutter.dev/) &nbsp; 
-[<img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/javascript.png" height="50" />](https://www.javascript.com/) &nbsp;
-[<img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/Typescript.png" height="50" />](https://www.typescriptlang.org/) &nbsp;
-[<img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/Bootstrap.png" height="50" />](https://getbootstrap.com/) &nbsp;
-[<img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/CSS3.png" height="50" />](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp; 
-[<img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/html.png" height="50" />](https://developer.mozilla.org/en-US/docs/Web/HTML) &nbsp; 
-[<img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/jest.jpg" height="50" />](https://jestjs.io/) &nbsp;
-[<img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/jquery.png" height="50" />](https://jquery.com/) &nbsp;
-[<img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/nodejs.png" height="50" />](https://nodejs.org/en/)&nbsp;
--->
 
 ## Links
 [<img src="https://github.com/m-mahir/m-mahir/blob/2249bcd09736c8e24b2923a4ea68127b011dcd17/linkedin.png" height="45" width="45" alt="linkedin" />](https://www.linkedin.com/in/m-mahir/) &nbsp;
