@@ -7,7 +7,7 @@ Software Engineer with +3 years of experience in mobile cross-platform developme
 Looking forward to work in an environment offering challenging career opportunities, where I can apply and enhance my skills for solving diverse technical problems.
 
 - &nbsp;<img src='https://github.com/m-mahir/m-mahir/blob/e39e3aa30d6af65fe3c491b1f32a7116e5090af7/location.png' height='12' > &nbsp; Cairo, Egypt.
-- <img src='https://github.com/m-mahir/m-mahir/blob/e39e3aa30d6af65fe3c491b1f32a7116e5090af7/email.png' height='12' > mohammed.mahir92@gmail.com.
+- <img src='https://github.com/m-mahir/m-mahir/blob/e39e3aa30d6af65fe3c491b1f32a7116e5090af7/email.png' height='12' > &nbsp; mohammed.mahir92@gmail.com.
 
 ## Skills & Experience
 
