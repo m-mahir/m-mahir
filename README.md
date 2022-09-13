@@ -1,12 +1,12 @@
 ![Senior Frontend Developer](https://github.com/m-mahir/m-mahir/blob/8e01a6838b1021617768d672f699b1c8c0aed6be/Profile36.jpg)
 
 # Mohamed Maher
-## Senior Frontend Developer
+### Senior Frontend Developer
 
 Software Engineer with +3 years of experience in mobile cross-platform development in various companies. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React, Flutter, and Vue.js. My full-stack experience includes some technologies like ASP.NET, and MySQL.
 Looking forward to work in an environment offering challenging career opportunities, where I can apply and enhance my skills for solving diverse technical problems.
 
-<h2 align="left">Skills & Experience</h2>
+<h3 align="left">Skills & Experience</h3>
 
 <h4 align="left">Frontend Development</h4>
 <p align="left">
