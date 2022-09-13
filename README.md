@@ -6,8 +6,8 @@
 Software Engineer with +3 years of experience in mobile cross-platform development in various companies. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React, Flutter, and Vue.js. My full-stack experience includes some technologies like ASP.NET, and MySQL.
 Looking forward to work in an environment offering challenging career opportunities, where I can apply and enhance my skills for solving diverse technical problems.
 
-- <img src='https://github.com/m-mahir/m-mahir/blob/6d6e351bd0f68a82bbdd1517361e55efad3e3b6e/location.jpg' height='20' > Location: Cairo, Egypt.
-- <img src='https://github.com/m-mahir/m-mahir/blob/4364e9cfbc0bd02513e3f4bad2cd0db59a2f1fe9/email.png' height='20' > Contact Me: mohammed.mahir92@gmail.com.
+- <img src='https://github.com/m-mahir/m-mahir/blob/6d6e351bd0f68a82bbdd1517361e55efad3e3b6e/location.jpg' height='15' > Location: Cairo, Egypt.
+- <img src='https://github.com/m-mahir/m-mahir/blob/4364e9cfbc0bd02513e3f4bad2cd0db59a2f1fe9/email.png' height='15' > Contact Me: mohammed.mahir92@gmail.com.
 
 ## Skills & Experience
 
