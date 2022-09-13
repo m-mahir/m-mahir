@@ -57,9 +57,7 @@ Looking forward to work in an environment offering challenging career opportunit
 <!--
 - &nbsp;<img src='https://github.com/m-mahir/m-mahir/blob/e39e3aa30d6af65fe3c491b1f32a7116e5090af7/location.png' height='12' > &nbsp; Cairo, Egypt.
 - <img src='https://github.com/m-mahir/m-mahir/blob/e39e3aa30d6af65fe3c491b1f32a7116e5090af7/email.png' height='12' > &nbsp; mohammed.mahir92@gmail.com.
-
 ## Skills & Experience
-
 [<img src="https://github.com/m-mahir/m-mahir/blob/8d47637862696a9c1f7458568c8f63656d9e2647/react.png" height="50" />](https://reactjs.org/) &nbsp;
 [<img src="https://github.com/m-mahir/m-mahir/blob/9e67de2dd425ca86d46b8f79ae4c67f7b00dc19a/vue.png" height="50" />](https://vuejs.org/) &nbsp; 
 [<img src="https://github.com/m-mahir/m-mahir/blob/90059cefa9e558779ea438eb19da9949f5e87378/flutter.jpg" height="50" />](https://flutter.dev/) &nbsp; 
