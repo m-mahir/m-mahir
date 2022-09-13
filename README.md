@@ -33,7 +33,7 @@ Looking forward to work in an environment offering challenging career opportunit
     <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="45" height="45"/> </a> &nbsp;
 </p>
 
-<h4 align="left">Programming Languages, Environment & Frameworks</h4>
+<h4 align="left">Programming Languages, Environments & Frameworks</h4>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a> &nbsp;
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/> </a> &nbsp;
